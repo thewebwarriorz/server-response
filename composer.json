@@ -1,0 +1,15 @@
+{
+  "name": "thewebwarriorz/server_response",
+  "description": "Generate a dummy JSON response with servers names, and server statistics.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Attila Kiss",
+      "email": "attila@thewebwarriorz.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^1.29"
+  }
+}

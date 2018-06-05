@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c283afff-2910-4c22-b72d-b68af618ba4f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty-translation.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/encoding.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/extractor/resource.format.engine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/extractor/this.is.a.template.format.engine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/plurals.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/en.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/fr.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/resources.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/res/en.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/serverResponse.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/.php_cs.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/build.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/af.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar_Shakl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/az.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bs_BA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/da.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/dv_MV.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/el.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/et.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/gl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/gu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/he.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/id.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/is.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ka.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/kk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/km.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/mn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ne.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/oc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt_BR.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sq.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl_ME.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Latn_ME.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_ME.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sw.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/th.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ur.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/vi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh_TW.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Translator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/JsonSerializable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/AbstractOperation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/MergeOperation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/OperationInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/TargetOperation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DataCollector/TranslationDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DataCollectorTranslator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DependencyInjection/TranslatorPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/CsvFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/DumperInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/FileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/IcuResFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/IniFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/JsonFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/MoFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/PhpFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/PoFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/QtFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/XliffFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/YamlFileDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/ExceptionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/InvalidArgumentException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/InvalidResourceException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/LogicException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/NotFoundResourceException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/RuntimeException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/AbstractFileExtractor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/ChainExtractor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/ExtractorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/PhpExtractor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/PhpStringTokenParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Formatter/ChoiceMessageFormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Formatter/MessageFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Formatter/MessageFormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/IdentityTranslator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Interval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/ArrayLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/CsvFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/FileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IcuDatFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IcuResFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IniFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/JsonFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/LoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/MoFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PhpFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PoFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/QtFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/XliffFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/YamlFileLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xliff-core-1.2-strict.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xliff-core-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xml.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LoggingTranslator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageSelector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MetadataAwareInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/PluralizationRules.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Reader/TranslationReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Reader/TranslationReaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Resources/schemas/xliff-core-1.2-strict.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/AbstractOperationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/MergeOperationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/TargetOperationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Command/XliffLintCommandTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DataCollectorTranslatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DependencyInjection/TranslationDumperPassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DependencyInjection/TranslationExtractorPassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DependencyInjection/TranslationPassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/CsvFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/FileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/IcuResFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/IniFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/JsonFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/MoFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/PhpFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/PoFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/QtFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/XliffFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/YamlFileDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Extractor/PhpExtractorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Formatter/MessageFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/IdentityTranslatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/IntervalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/CsvFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IcuDatFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IcuResFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IniFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/JsonFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/LocalizedTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/MoFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/PhpFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/PoFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/QtFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/XliffFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/YamlFileLoaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/LoggingTranslatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageCatalogueTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageSelectorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/PluralizationRulesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorCacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Util/ArrayConverterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Writer/TranslationWriterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty-translation.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/escaped-id-plurals.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/escaped-id.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/extractor/translation.html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/fuzzy-translations.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/invalid-xml-resources.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/malformed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/messages.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/messages_linear.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/non-valid.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/non-valid.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/plurals.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resname.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/corrupted/resources.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/en.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/fr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/packagelist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-2.0-clean.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-2.0-multi-segment-unit.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-2.0.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-clean.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-notes-meta.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-target-attributes.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-tool-info.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.dump.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/valid.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/with-attributes.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/withdoctype.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/withnote.xlf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Translator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/TranslatorBagInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/TranslatorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Util/ArrayConverter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Writer/TranslationWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Writer/TranslationWriterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/servers.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="httpd-vhosts.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="384" column="54" lean-forward="false" selection-start-line="384" selection-start-column="54" selection-end-line="384" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/servers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="63" column="15" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>^</find>
+      <find>&quot;</find>
+      <find>side</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>-response</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/footer.php" />
+        <option value="$PROJECT_DIR$/views/home.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
+        <option value="$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf" />
+        <option value="$PROJECT_DIR$/views/404.php" />
+        <option value="$PROJECT_DIR$/views/header.php" />
+        <option value="$PROJECT_DIR$/public/functions.php" />
+        <option value="$PROJECT_DIR$/views/servers.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/views/server.php" />
+        <option value="$PROJECT_DIR$/views/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-180" />
+    <option name="y" value="-8" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="serverResponse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serverResponse" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="serverResponse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serverResponse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="serverResponse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serverResponse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\serverResponse\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\serverResponse" />
+      <recent name="C:\xampp\htdocs\serverResponse\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c283afff-2910-4c22-b72d-b68af618ba4f" name="Default" comment="" />
+      <created>1528163786257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528163786257</updated>
+      <workItem from="1528163787975" duration="6259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="384" column="54" lean-forward="false" selection-start-line="384" selection-start-column="54" selection-end-line="384" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/servers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="63" column="15" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
