@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Attila
- * Date: 5/06/2018
- * Time: 2:31 PM
- */
 
 function json_response($message = null, $code = 200, $onlyData = false)
 {
